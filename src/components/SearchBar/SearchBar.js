@@ -20,8 +20,7 @@ class SearchBar extends React.Component {
         this.sortByOptions = {
             'Best Match': 'best_match',
             'Highest Rated': 'rating',
-            'Most Reviewed': 'review_count',
-            'Nearest Restaurant': 'distance'
+            'Most Reviewed': 'review_count'
         };
     }
 
